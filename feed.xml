@@ -3,7 +3,7 @@
     <title>Home</title>
     <link href="https://lykienhuy.github.io/Blog/feed.xml" rel="self" />
     <link href="https://lykienhuy.github.io/Blog" />
-    <updated>2024-12-27T15:03:43+07:00</updated>
+    <updated>2024-12-27T15:06:26+07:00</updated>
     <author>
         <name>Lý Kiên Huy</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://lykienhuy.github.io/Blog/lo-trinh-tro-thanh-java-developer-trong-nam-2024.html"/>
         <id>https://lykienhuy.github.io/Blog/lo-trinh-tro-thanh-java-developer-trong-nam-2024.html</id>
+        <media:content url="https://lykienhuy.github.io/Blog/media/posts/11/y.png" medium="image" />
 
         <updated>2024-12-27T15:03:43+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://lykienhuy.github.io/Blog/media/posts/11/y.png" class="type:primaryImage" alt="" /></p>
                 
 <p>Cuối năm 2021, Java được xếp hạng là ngôn ngữ lập trình phổ biến thứ hai trên bảng xếp hạng TIOBE, chỉ xếp sau Python. TIOBE đo lường mức độ phổ biến của các ngôn ngữ lập trình khác nhau và cập nhật hàng tháng.</p>
 <p>Dựa vào đó, chúng ta có thể thấy tương lai của Java có vẻ tươi sáng và rằng nhu cầu tuyển dụng các chuyên gia lập trình và nhà phát triển Java full-stack trong tương lai vẫn sẽ cao. Do vậy, nếu bạn muốn trở thành nhà phát triển Java thì hãy xem qua lộ trình dưới đây. Ngoài ra, bạn sẽ còn biết cách tận dụng tốt nhất kiến thức Java để tạo ra một sự nghiệp thú vị và có thu nhập cao.</p>
