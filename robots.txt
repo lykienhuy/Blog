@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lykienhuy.github.io/Blog/sitemap.xml
