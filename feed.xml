@@ -3,7 +3,7 @@
     <title>Home</title>
     <link href="https://lykienhuy.github.io/Blog/feed.xml" rel="self" />
     <link href="https://lykienhuy.github.io/Blog" />
-    <updated>2024-12-28T16:48:30+07:00</updated>
+    <updated>2024-12-28T17:01:29+07:00</updated>
     <author>
         <name>Lý Kiên Huy</name>
     </author>
@@ -69,6 +69,7 @@ chart.render();
 <h2>Tùy biến biểu đồ</h2>
 <p>Bạn có thể tùy biến color của từng phần riêng lẻ bằng color hoặc thay đổi góc của hình tròn bằng startAngle.</p>
 <p>Một số lựa chọn tùy biến khác bao gồm: radius, fillOpacity, indexLabelPlacement…</p>
+<p>Nguồn:<a href="https://quantrimang.com/hoc/code-javascript-tao-bieu-do-do-thi-hinh-tron-195897" target="_blank" rel="noopener noreferrer">https://quantrimang.com/hoc/code-javascript-tao-bieu-do-do-thi-hinh-tron-195897</a></p>
             ]]>
         </content>
     </entry>
@@ -87,7 +88,7 @@ chart.render();
             <![CDATA[
                     <p><img src="https://lykienhuy.github.io/Blog/media/posts/16/ue.jpg" class="type:primaryImage" alt="" /></p>
                 
-<p>rong thời buổi hiện tại, JavaScript đóng một vai trò rất lớn trong việc phát triển trang web. Các nhà phát triển front-end sử dụng JavaScript để tạo các ứng dụng web tương tác. Do đó, nhu cầu tuyển dụng các nhà phát triển JavaScript ngày càng tăng.</p>
+<p>Trong thời buổi hiện tại, JavaScript đóng một vai trò rất lớn trong việc phát triển trang web. Các nhà phát triển front-end sử dụng JavaScript để tạo các ứng dụng web tương tác. Do đó, nhu cầu tuyển dụng các nhà phát triển JavaScript ngày càng tăng.</p>
 <p>Qua nhiều năm, JavaScript cũng đã phát triển mạnh mẽ. ES6 đã giới thiệu nhiều tính năng mới cho ngôn ngữ này. Một trong những tính năng nổi bật nhất đó là khả năng chia sẻ code dễ dàng giữa các file JavaScript.</p>
 <p>Nhập và xuất hàm trong JavaScript là những tính năng mới, chúng chắc chắn sẽ giúp bạn trở thành một nhà phát triển tốt hơn. Dưới đây là cách hoạt động của những tính năng này.</p>
 <h2>Mô-đun JavaScript là gì?</h2>
@@ -162,8 +163,9 @@ chart.render();
 <p>Dưới đây là những khác biệt:</p>
 <ul>
 <li>Không cần ngoặc nhọn xung quanh giá trị đã nhập là <strong>fullName.</strong></li>
-<li><strong>fullName</strong> ở đây chỉ là một tên biến. Nó lưu trữ giá trị của bất kỳ hàm mặc định nào</li>
+<li><strong>fullName</strong> ở đây chỉ là một tên biến. Nó lưu trữ giá trị của bất kỳ hàm mặc định nào</li>
 </ul>
+<p>Nguồn:<a href="https://quantrimang.com/hoc/cach-nhap-va-xuat-ham-trong-javascript-193791" target="_blank" rel="noopener noreferrer"> https://quantrimang.com/hoc/cach-nhap-va-xuat-ham-trong-javascript-193791</a></p>
             ]]>
         </content>
     </entry>
@@ -413,6 +415,7 @@ public class FreshJuiceTest {
 <h2>Interface trong Java</h2>
 <p>Trong ngôn ngữ lập trình Java, một interface có thể được định nghĩa như là một contract giữa các đối tượng về cách giao tiếp với nhau. Các interface đóng vai trò thiết yếu khi nó đi với khái niệm về tính kế thừa.</p>
 <p>Một interface định nghĩa các thủ tục, các subclass nên sử dụng. Nhưng sự thực thi của các phương thức lại hoàn toàn phụ thuộc vào các subclass.</p>
+<p>Nguồn: <a href="https://quantrimang.com/hoc/cu-phap-java-co-ban-145843" target="_blank" rel="noopener noreferrer">https://quantrimang.com/hoc/cu-phap-java-co-ban-145843</a></p>
             ]]>
         </content>
     </entry>
@@ -464,6 +467,7 @@ public class FreshJuiceTest {
 <li>Netbeans: Một IDE Java miễn phí, mã nguồn mở.</li>
 <li>Eclipse: Cũng là mã nguồn mở và miễn phí.</li>
 </ul>
+<p>Nguồn: <a href="https://quantrimang.com/cong-nghe/tai-va-cai-dat-java-tren-may-tinh-145838" target="_blank" rel="noopener noreferrer">https://quantrimang.com/cong-nghe/tai-va-cai-dat-java-tren-may-tinh-145838</a></p>
             ]]>
         </content>
     </entry>
@@ -688,6 +692,7 @@ public class FreshJuiceTest {
 <li><strong>Nhà phát triển Java EE</strong>: Những nhà phát triển này xây dựng và bảo trì phần mềm doanh nghiệp và thường được thuê bảo các doanh nghiệp lớn.</li>
 <li><strong>Nhà phát triển Java Android</strong>: Thị phần cảu hệ điều hành di động Android lớn hơn đáng kể so với iOS. Do đó, nhu cầu nhà phát triển có khả năng xây dựng hoặc bổ sung thêm các tính năng cho Android, phát triển ứng dụng Android là rất cao.</li>
 </ul>
+<p>Nguồn: <a href="https://quantrimang.com/cong-nghe/lo-trinh-tro-thanh-nha-phat-trien-java-194656" target="_blank" rel="noopener noreferrer">https://quantrimang.com/cong-nghe/lo-trinh-tro-thanh-nha-phat-trien-java-194656</a></p>
             ]]>
         </content>
     </entry>
@@ -749,6 +754,7 @@ public class FreshJuiceTest {
 <p>Đây là một lựa chọn nghề nghiệp thích hợp, có cơ hội phát triển, với số lượng thiết bị lớn từ router đến các thiết bị mạng hay các trung tâm giải trí sử dụng Java bên trong, bạn sẽ không lo về việc mình sẽ làm gì sau khi kết thúc việc học.</p>
 <p>Công việc Java của bạn đang tiến triển như thế nào? Bạn đang ở giai đoạn nào của tiến trình? Và bạn đang làm việc trong lĩnh vực ứng dụng nào? Bạn có kinh nghiệm quý báu nào với ngôn ngữ lập trình này không? Hãy chia sẻ với chúng tôi và những bạn đọc khác bằng cách bình luận bên dưới bài viết này nhé.</p>
 <p>Chúc các bạn có được công việc phù hợp với nguyện vọng của mình!</p>
+<p>Nguồn: <a href="https://quantrimang.com/lang-cong-nghe/lua-chon-lap-trinh-java-nghe-nghiep-nao-dang-cho-doi-ban-139458" target="_blank" rel="noopener noreferrer">https://quantrimang.com/lang-cong-nghe/lua-chon-lap-trinh-java-nghe-nghiep-nao-dang-cho-doi-ban-139458</a></p>
             ]]>
         </content>
     </entry>
@@ -788,6 +794,7 @@ public class FreshJuiceTest {
 <p>- Việc linh hoạt hỗ trợ cho các thiết bị cũng có thể tạo ra trải nghiệm không đồng nhất trên các thiết bị này, và đôi khi một số trình duyệt sẽ không hỗ trợ sử dụng JavaScript.</p>
 <figure class="lazy"><img loading="lazy"  title="JavaScript rất dễ bị khai thác" src="https://cdn.tgdd.vn/hoi-dap/1321801/javascript-la-gi-co-vai-tro-gi-cach-bat-javascript-tren.004.jpg" alt="JavaScript rất dễ bị khai thác" data-cke-saved-src="//cdn.tgdd.vn/hoi-dap/1321801/javascript-la-gi-co-vai-tro-gi-cach-bat-javascript-tren.004.jpg" data-is-external-image="true"></figure>
 <p>JavaScript rất dễ bị khai thác</p>
+<p>Nguồn: <a href="https://www.thegioididong.com/hoi-dap/javascript-la-gi-co-vai-tro-gi-cach-bat-javascript-tren-1321801" target="_blank" rel="noopener noreferrer">https://www.thegioididong.com/hoi-dap/javascript-la-gi-co-vai-tro-gi-cach-bat-javascript-tren-1321801</a></p>
             ]]>
         </content>
     </entry>
@@ -876,6 +883,7 @@ public class FreshJuiceTest {
 <p><img src="https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/156801/Originals/java-la-gi%20(1).png" alt="Java là gì? Có nên học ngôn ngữ lập trình này?" width="700" height="400" loading="lazy" data-is-external-image="true"></p>
 <p>Cộng đồng lập trình Java rất lớn, với nhiều diễn đàn, tài liệu và các tài nguyên khác, giúp cho việc học tập và giải đáp thắc mắc của bạn trở nên dễ dàng hơn. Nếu bạn yêu thích ngành nghề này, có thể cân nhắc học và sớm trở thành một lập trình viên giàu kinh nghiệm trong tương lai.</p>
 <p>Hi vọng qua bài viết sẽ giúp các bạn hiểu hơn về thuật ngữ "Java là gì" trước khi đầu tư thời gian và công sức để tìm hiểu ngôn ngữ lập trình này.</p>
+<p>Nguồn: <a href="https://fptshop.com.vn/tin-tuc/danh-gia/java-la-gi-156801" target="_blank" rel="noopener noreferrer">https://fptshop.com.vn/tin-tuc/danh-gia/java-la-gi-156801</a></p>
             ]]>
         </content>
     </entry>
@@ -931,6 +939,7 @@ public class FreshJuiceTest {
 <p>Đừng hiểu lầm! Java vẫn được sử dụng rộng rãi và rất phổ biến, đi kèm theo đó là vô số lý do tại sao bạn nên học Java. Nhưng JavaScript là điểm khởi đầu lý tưởng cho những người mới bắt đầu quan tâm đến việc học lập trình, đặc biệt là người yêu thích công việc phát triển web front-end hoặc full stack. Thực sự, am hiểu về Javascript là một kỹ năng đủ linh hoạt để áp dụng cho một loạt các vai trò liên quan đến công nghệ.</p>
 <p>Rất khó để chọn lựa giữa hai ngôn ngữ này. Vì vậy, nếu bạn thực sự không chắc chắn, hãy thử xem xét mục tiêu cuối cùng và cân nhắc ưu, nhược điểm của từng ngôn ngữ.</p>
 <p>Chúc bạn có được lựa chọn phù hợp!</p>
+<p>Nguồn: <a href="https://quantrimang.com/cong-nghe/java-va-javascript-co-gi-khac-nhau-171641" target="_blank" rel="noopener noreferrer">https://quantrimang.com/cong-nghe/java-va-javascript-co-gi-khac-nhau-171641</a></p>
             ]]>
         </content>
     </entry>
